@@ -1,0 +1,16 @@
+[theme]
+font = "Noto Sans KR:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap"
+baseFontSize = 15
+baseRadius = "medium"
+buttonRadius = "medium"
+showSidebarBorder = true
+metricValueFontSize = "1.6rem"
+
+# 라이트/다크 모드 각각 대비가 충분한 차분한 남색 계열 메인 컬러
+[theme.light]
+primaryColor = "#3B5BDB"
+linkColor = "#3B5BDB"
+
+[theme.dark]
+primaryColor = "#7C93F0"
+linkColor = "#9AAEF5"

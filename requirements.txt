@@ -1,0 +1,5 @@
+streamlit>=1.67
+openai>=3.0
+pypdf>=7.0
+python-dotenv>=1.0
+cryptography>=3.1  # AES로 암호화된(편집 제한) PDF를 열 때 pypdf가 필요로 함
